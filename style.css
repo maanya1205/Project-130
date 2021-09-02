@@ -1,0 +1,33 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px pink;
+}
+.note{
+    font-size: 20px;
+    color: darkblue;
+    font-family: "pacifico";
+    
+}
+body{
+    background-size: cover;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+#song_name-heading{
+    color: yellow;
+    background-color: red;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top:5px;
+    padding-bottom:5px ;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
